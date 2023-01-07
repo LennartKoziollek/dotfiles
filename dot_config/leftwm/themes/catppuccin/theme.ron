@@ -1,0 +1,8 @@
+#![enable(implicit_some)]
+ThemeSetting(
+    border_width: 2,
+    margin: 5,
+    default_border_color: "#f5e0dc",
+    floating_border_color: "#f5e0dc",
+    focused_border_color: "#eba0ac",
+)
