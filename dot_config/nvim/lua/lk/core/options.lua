@@ -4,6 +4,8 @@ opt = vim.opt
 opt.relativenumber = true
 opt.number = true --shows line number of current line
 
+opt.shell = "/bin/fish"
+
 -- tabs
 opt.tabstop = 2
 opt.shiftwidth = 2
@@ -43,4 +45,4 @@ opt.splitbelow = true
 opt.timeoutlen = 300
 
 -- cursor
-opt.guicursor = ""
+-- opt.guicursor = ""

@@ -1,2 +1,2 @@
 [Added Associations]
-application/pdf=org.gnome.Evince.desktop;
+application/pdf=org.gnome.Evince.desktop;org.pwmt.zathura-pdf-mupdf.desktop;
